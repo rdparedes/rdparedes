@@ -1,14 +1,11 @@
-👋 I'm Rob
-===
+## 🤙 I'm Roberto
 
 - 👨‍💻 I work as a consultant at [Futurice](https://futurice.com/)
 - I come from 🇪🇨 and currently live in 🇸🇪
 - 📚 Add me to [Goodreads](https://www.goodreads.com/user/show/53294527-roberto-paredes)
 - I used to love visitor counters. Btw: ![Visitor Count](https://profile-counter.glitch.me/rdparedes/count.svg)
 
----
-
-## My Github Stats
+## :octocat: My Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdparedes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

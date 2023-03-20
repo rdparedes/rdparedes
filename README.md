@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there 👋 I'm Rob
+===
+
+```
+![Visitor Count](https://profile-counter.glitch.me/rdparedes/count.svg)
+```
+
 
 <!--
 **rdparedes/rdparedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

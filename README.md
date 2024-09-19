@@ -1,8 +1,8 @@
-## 🤙 I'm Roberto
+## 🤙 Hi, I'm Roberto
 
-- 👨‍💻 I work as a consultant at [Futurice](https://futurice.com/)
-- I come from 🇪🇨 and currently live in 🇸🇪
-- 📚 Add me to [Goodreads](https://www.goodreads.com/user/show/53294527-roberto-paredes)
+- 👨‍💻 I work as a senior platform engineer at [H&M Group](https://hmgroup.com/)
+- I was born and raised in 🇪🇨 and I currently live in 🇸🇪
+- 📚 Add me to [Goodreads](https://www.goodreads.com/user/show/53294527-roberto-paredes)!
 - I used to love visitor counters. Btw: ![Visitor Count](https://profile-counter.glitch.me/rdparedes/count.svg)
 
 ## :octocat: My Github Stats

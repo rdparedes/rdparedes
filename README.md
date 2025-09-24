@@ -3,7 +3,6 @@
 - 👨‍💻 I work as a consultant software engineer at [Coody](https://www.coody.com/)
 - I was born and raised in 🇪🇨 and I currently live in 🇸🇪
 - 📚 Add me to ~Goodreads~ [StoryGraph](https://app.thestorygraph.com/profile/rdparedes)!
-- I used to love visitor counters. Btw: ![Visitor Count](https://profile-counter.glitch.me/rdparedes/count.svg)
 
 ## :octocat: My Github Stats
 
